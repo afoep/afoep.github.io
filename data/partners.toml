@@ -1,37 +1,37 @@
 [[partners]]
   name  = "Österreichische Apothekerkammer"
-  url   = "https://www.apotheker.or.at/"
-  image = "/images/partners/apothekerkammer.jpg"
+  url   = "https://www.apothekerkammer.at/"
+  image = "/images/partners/apothekerkammer.svg"
 
 [[partners]]
   name  = "Apoverlag"
-  url   = "https://www.apoverlag.at/"
-  image = "/images/partners/apoverlag.png"
+  url   = "https://www.apoverlag.at/apoverlag"
+  image = "/images/partners/apoverlag.svg"
 
 [[partners]]
   name  = "FIP - International Pharmaceutical Federation"
   url   = "https://www.fip.org/"
-  image = "/images/partners/fip.jpg"
+  image = "/images/partners/fip.png"
 
 [[partners]]
   name  = "AMSA"
   url   = "https://www.amsa.at/"
-  image = "/images/partners/amsa.jpg"
+  image = "/images/partners/amsa.png"
 
 [[partners]]
   name  = "Österreichischer Apothekerverband"
   url   = "https://www.apothekerverband.at/"
-  image = "/images/partners/av.jpg"
+  image = "/images/partners/apothekerverband.png"
 
 [[partners]]
   name  = "Studo"
   url   = "https://studo.com/#org=94ea5a284b"
-  image = "/images/partners/studo.png"
+  image = "/images/partners/studo.svg"
 
 [[partners]]
   name  = "Herba Chemosan"
   url   = "https://www.herba-chemosan.at/"
-  image = "/images/partners/herba.jpg"
+  image = "/images/partners/herba.png"
 
 [[partners]]
   name  = "Ball der Pharmazie"
@@ -41,7 +41,7 @@
 [[partners]]
   name  = "IPSF"
   url   = "https://www.ipsf.org/"
-  image = "/images/partners/ipsf.jpg"
+  image = "/images/partners/ipsf.png"
 
 [[partners]]
   name  = "EPSA"
