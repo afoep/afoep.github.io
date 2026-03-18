@@ -32,7 +32,7 @@ E-Mail: [office@afoep.at](mailto:office@afoep.at)
 
 Präsidentin: Sonja Glamoclija\
 Schriftführerin: Anna Ursprunger\
-Geschäftsführerin Catharina Ressmann
+Geschäftsführerin: Catharina Ressmann
 
 ### Vereinszweck
 
