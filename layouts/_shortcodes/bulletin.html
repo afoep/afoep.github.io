@@ -1,0 +1,19 @@
+<div class="bulletins">
+  {{ $years := split (.Get "years") "," }}
+
+  {{ range $years }}
+    {{ $start := int (strings.TrimSpace .) }}
+    {{ $end := add $start 1 }}
+    {{ $label := printf "%d/%02d" $start (mod $end 100) }}
+    {{ $base := printf "%d-%d" $start $end }}
+    {{ $img := printf "/images/bulletin/afoep-bulletin-%s.jpg" $base }}
+    {{ $pdf := printf "/documents/bulletin/afoep-bulletin-%s.pdf" $base }}
+
+    <div class="bulletin">
+      <a href="{{ $pdf }}" target="_blank" rel="noopener">
+        <img src="{{ $img }}" alt="Bulletin {{ $label }}">
+      </a>
+      <p>{{ $label }}</p>
+    </div>
+  {{ end }}
+</div>

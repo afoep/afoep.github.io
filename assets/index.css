@@ -204,3 +204,34 @@ footer {
   margin: 0;
   text-align: center;
 }
+
+/* Bulletin settings */
+
+.bulletins {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.bulletin {
+  flex: 0 0 200px;
+  max-width: 200px;
+  text-align: center;
+}
+
+.bulletin a {
+  display: block;
+  width: 100%;
+}
+
+.bulletin img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.bulletin p {
+  margin-top: 0.5rem;
+  text-align: center;
+}
