@@ -156,6 +156,8 @@ Diese sind leider nicht mehr aktuell. Stattdessen verweisen wir auf den [Studien
 
 Natürlich dürfen wir unsere Freunde von den Studienvertretungen Pharmazie nicht vergessen:
 
+{{< image-grid >}}
 [![StV Graz](/images/stvs/stv_graz.png)](https://oehunigraz.at/pharmazie/)
 [![StV Innsbruck](/images/stvs/stv_ibk.png)](https://www.pharmauibk.com/)
-[![StV Innsbruck](/images/stvs/stv_wien.png)](https://stv-pharmazie.oeh.univie.ac.at/)
+[![StV Wien](/images/stvs/stv_wien.png)](https://stv-pharmazie.oeh.univie.ac.at/)
+{{< /image-grid >}}
