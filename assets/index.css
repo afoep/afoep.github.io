@@ -47,7 +47,11 @@ header {
 header #logo-row {
   padding-block: 50px 0;
   margin-block: 0 30px;
-  margin-left: 5px;
+  margin-left: 20px;
+
+  @media (min-width: 960px) {
+    margin-left: 5px;
+  }
 }
 
 #nav-row {
