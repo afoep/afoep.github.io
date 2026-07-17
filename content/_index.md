@@ -18,3 +18,9 @@ Kurz gesagt, der AFÖP ist ein Ort der Vernetzung, des Ausprobierens und vor all
 Wie wichtig Gemeinschaft ist, hat uns Corona nur allzu deutlich vor Augen geführt. Die Pandemie stellt(e) die meisten von uns  vor so manche Herausforderung, so auch mich. Umso mehr freue ich mich über die festen Freundschaften, die ich in den letzten zwei Jahren beim AFÖP gefunden habe. Dies ist nur einer von vielen Gründen, warum ich nur jeder und jedem herzlichst empfehlen kann: Werde Teil der AFÖP-Family!
 
 Ich freue mich, Dich bei uns Willkommen zu heißen!
+
+---
+
+![AFÖP Booklet](/images/booklet-cover.jpg)
+
+*In unserem AFÖP Booklet findest du alle notwendigen Informationen zum AFÖP in kompaktem Format!*
