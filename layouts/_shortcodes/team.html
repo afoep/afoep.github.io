@@ -1,11 +1,16 @@
 <div class="team">
   {{ range site.Data.team.team }}
+    {{ $member := . }}
     <div class="member">
       <div class="member-photo">
         <img src="{{ .photo }}" alt="{{ .name }}">
       </div>
       <h3>{{ .name }}</h3>
-      <p>{{ .position }} ({{ .place }})</p>
+      {{ with .position }}
+        <p>{{ . }}{{ with $member.place }} ({{ . }}){{ end }}</p>
+      {{ else with .place }}
+        <p>{{ . }}</p>
+      {{ end }}
     </div>
   {{ end }}
 </div>

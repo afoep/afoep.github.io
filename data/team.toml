@@ -1,27 +1,20 @@
 [[team]]
-  name     = "Sonja Glamoclija"
-  position = "Präsident"
+  name     = "Sonja Glamočlija"
+  position = "Präsidentin"
   place    = "Wien"
   photo    = "/images/team/glamoclija.jpg"
 
 [[team]]
   name     = "Lea Stadlmann"
-  position = "Präsident"
+  position = "Präsidentin"
   place    = "Graz"
   photo    = "/images/team/stadlmann.jpg"
 
-[[team]]
-  name     = "Judith Schwarz"
-  position = "Treasurer"
-  place    = "Graz"
-  photo    = "/images/team/schwarz.jpg"
-
-
-[[team]]
-  name     = "Anna Ursprunger"
-  position = "Schriftführerin"
-  place    = "Graz"
-  photo    = "/images/team/ursprunger.jpg"
+# [[team]]
+#   name     = "Judith Schwarz"
+#   position = "Treasurer"
+#   place    = "Graz"
+#   photo    = "/images/team/schwarz.jpg"
 
 [[team]]
   name     = "Anna Ursprunger"
@@ -29,11 +22,11 @@
   place    = "Graz"
   photo    = "/images/team/ursprunger.jpg"
 
-[[team]]
-  name     = "Anna Pfenicher"
-  position = "EPSA Liaison Secretary"
-  place    = "Graz"
-  photo    = "/images/team/pfenicher.jpg"
+# [[team]]
+#   name     = "Anna Pfenicher"
+#   position = "EPSA Liaison Secretary"
+#   place    = "Graz"
+#   photo    = "/images/team/pfenicher.jpg"
 
 [[team]]
   name     = "Milica Jankovic"
@@ -54,13 +47,103 @@
   photo    = "/images/team/steininger.jpg"
 
 [[team]]
+  name     = "Catharina Ressmann"
+  position = "Geschäftsführerin"
+  place    = "Graz"
+  photo    = "/images/team/ressmann.jpg"
+
+[[team]]
   name     = "Alexander J Pfleger"
   position = "IT"
   place    = "Graz"
   photo    = "/images/team/pfleger.jpg"
 
 [[team]]
-  name     = "Catharina Ressmann"
-  position = "Geschäftsführerin"
-  place    = "Graz"
-  photo    = "/images/team/team_placeholder.png"
+  name     = "Leo Gaskin"
+  position = "IT"
+  place    = "Wien"
+  photo    = "/images/team/gaskin.jpg"
+
+[[team]]
+  name     = "Bao Chau Dao"
+  position = ""
+  place    = "Wien"
+  photo    = "/images/team/dao.jpg"
+
+[[team]]
+  name     = "Katarina Tupanjac"
+  position = ""
+  place    = "Wien"
+  photo    = "/images/team/tupanjac.jpg"
+
+[[team]]
+  name     = "Theresa Pflug"
+  position = ""
+  place    = "Wien"
+  photo    = "/images/team/pflug.jpg"
+
+[[team]]
+  name     = "Lena Mladenovic"
+  position = ""
+  place    = "Wien"
+  photo    = "/images/team/mladenovic.jpg"
+
+[[team]]
+  name     = "Sandra Hiess"
+  position = ""
+  place    = ""
+  photo    = "/images/team/hiess.jpg"
+
+[[team]]
+  name     = "Marlene Huber"
+  position = ""
+  place    = "Wien"
+  photo    = "/images/team/huber.jpg"
+
+[[team]]
+  name     = "Francesca Iafrate"
+  position = ""
+  place    = "Wien"
+  photo    = "/images/team/iafrate.jpg"
+
+[[team]]
+  name     = "Majed Korye"
+  position = ""
+  place    = "Wien"
+  photo    = "/images/team/korye.jpg"
+
+[[team]]
+  name     = "Mahmoud Gouda"
+  position = ""
+  place    = "Wien"
+  photo    = "/images/team/gouda.jpg"
+
+[[team]]
+  name     = "Michael Kuzel"
+  position = ""
+  place    = "Wien"
+  photo    = "/images/team/kuzel.jpg"
+
+[[team]]
+  name     = "Merit Moussa"
+  position = ""
+  place    = "Wien"
+  photo    = "/images/team/moussa.jpg"
+
+[[team]]
+  name     = "Caroline Rigler"
+  position = ""
+  place    = ""
+  photo    = "/images/team/rigler.jpg"
+
+[[team]]
+  name     = "Anna Rosenbichler"
+  position = ""
+  place    = ""
+  photo    = "/images/team/rosenbichler.jpg"
+
+[[team]]
+  name     = "Vanessa Brunner"
+  position = ""
+  place    = "Wien"
+  photo    = "/images/team/brunner.jpg"
