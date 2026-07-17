@@ -10,7 +10,7 @@ Du hast Fragen zu uns oder unseren Events?\
 Du möchtest Deine Ideen verwirklichen oder bei uns reinschnuppern?\
 Schreibe uns gerne unter [office@afoep.at](mailto:office@afoep.at)!
 
-Du erreichst uns auch auf [Facebook](http://facebook.com/afoep/) und [Instagram](https://www.instagram.com/afoep_graz/)!
+Du erreichst uns auch auf [Linkedin](https://www.linkedin.com/company/akademischer-fachverein-%C3%B6sterreichischer-pharmazeut_innen) und [Instagram](https://www.instagram.com/afoep_graz/)!
 
 ![Das AFÖP-Team](/images/decorative/kontakt24-team-768x576.jpg)
 
