@@ -14,5 +14,7 @@ AFÖP ermöglicht Euch an bzw. Organisation von lokalen und nationalen Events.  
 [![Ball der Pharmazie](/images/comic/ball.png)](/aktivitaeten/ball-der-pharmazie)
 [![AFÖP Bulletin](/images/comic/bulletin.png)](/bulletin)
 [![Teddibärkrankenhaus](/images/comic/tbkh.png)](https://amsa.at/teddybaerkrankenhaus/)
+[![EPSA](/images/comic/epsa-bordered.jpg)](https://www.epsa-online.org/)
+[![IPSF](/images/comic/ipsf-square.png)](https://www.ipsf.org/)
 [![Skripten](/images/comic/skripten.png)](/studium/)
 {{< /image-grid >}}
