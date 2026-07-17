@@ -1,0 +1,291 @@
+[[bachelor]]
+  code = "A.1.1"
+  name = "Einführung in die Pharmazeutischen Wissenschaften (StEOP)"
+  resources = [
+    { title = "OL-Altfragenausarbeitung", url = "/uploads/2020/10/OL-Altfragenausarbeitung-.pdf" },
+    { title = "Einführung pharmazeutische Wissenschaften Stoffübersicht", url = "/uploads/2020/10/Einführung-pharmazeutische-Wissenschaften-Stoffübersicht.pdf" },
+    { title = "1 Einführung in die pharmazeutische Wissenschaft", url = "/uploads/2020/10/1-Einführung-in-die-pharmazeutische-Wissenschaft.pdf" },
+  ]
+
+[[bachelor]]
+  code = "A.1.2"
+  name = "Physik für Studierende der Pharmazeutischen Wissenschaften"
+  resources = [
+    { title = "physik altfragen ausgearbeitet", url = "/uploads/2020/10/physik-altfragen-ausgearbeitet.pdf" },
+    { title = "Ausgearbeiteter Prüfungsbogen 15.12.2017_Prof. Werzer", url = "/uploads/2020/10/Ausgearbeiteter-Prüfungsbogen-15.12.2017_Prof.-Werzer.pdf" },
+    { title = "Physik Zusammenfassung", url = "/uploads/2020/10/Physik-zusammenfassung.pdf" },
+  ]
+
+[[bachelor]]
+  code = "A.1.3"
+  name = "Allgemeine Biologie für Studierende der Pharmazeutischen Wissenschaften (StEOP)"
+  resources = [
+    { title = "Inhaltsüberblick Biologie", url = "/uploads/2020/10/InhaltsüberblickBiologie.pdf" },
+  ]
+
+[[bachelor]]
+  code      = "A.1.4"
+  name      = "Humane Zellbiologie für Studierende der Pharmazeutischen Wissenschaften (StEOP)"
+  resources = []
+
+[[bachelor]]
+  code = "A.1.5"
+  name = "Allgemeine Chemie für Studierende der Pharmazeutischen Wissenschaften (StEOP)"
+  resources = [
+    { title = "chemie-fragen_ausgearbeitet_danke-an-daniel-friessnegg", url = "/uploads/2020/10/Chemie-Fragen_ausgearbeitet_Danke-an-Daniel-Frießnegg.pdf" },
+    { title = "Chemie ZUSAMMENFASSUNG PHARMA KFU", url = "/uploads/2020/10/Chemie-ZUSAMMENFASSUNG-PHARMA-KFU.pdf" },
+    { title = "Allgemeine Chemie_Skript", url = "/uploads/2020/10/Allgemeine-Chemie_Skript.pdf" },
+    { title = "Chemie Prüfung Zusammenfassung", url = "/uploads/2020/10/Chemie-Prüfung-Zusammenfassung.pdf" },
+    { title = "Oxidationszahlen", url = "/uploads/2020/10/Oxidationszahlen-.pdf" },
+  ]
+
+[[bachelor]]
+  code = "A.2.1"
+  name = "Systematik arzneistoffliefernder Organismen"
+  resources = [
+    { title = "Systematik-Familiennamen-Einteilung", url = "/uploads/2020/10/Systematik-Familiennamen-Einteilung.pdf" },
+    { title = "Morphologie_Fachbegriffsammlung", url = "/uploads/2020/10/Morphologie_Fachbegriffsammlung.pdf" },
+  ]
+
+[[bachelor]]
+  code      = "A.2.2"
+  name      = "Mathematik in ausgewählten Kapiteln (StEOP)"
+  resources = []
+
+[[bachelor]]
+  code      = "A.2.3"
+  name      = "Stöchiometrie"
+  resources = []
+
+[[bachelor]]
+  code      = "A.2.4"
+  name      = "Allgemeine Mikrobiologie und Hygiene"
+  resources = []
+
+[[bachelor]]
+  code      = "A.2.5"
+  name      = "Morphologie und Systematik der Arzneipflanzen"
+  resources = []
+
+[[bachelor]]
+  code      = "B.1.1"
+  name      = "Organisch-chemische Grundlagen der Pharm. Chemie"
+  resources = []
+
+[[bachelor]]
+  code      = "B.1.2"
+  name      = "Arbeitstechniken in der präparativen organischen Chemie"
+  resources = []
+
+[[bachelor]]
+  code      = "B.1.3"
+  name      = "Nomenklatur pharmazeutisch relevanter Verbindungen"
+  resources = []
+
+[[bachelor]]
+  code = "B.2.1"
+  name = "Arzneistoffsynthese inklusive Reaktionsmechanismen"
+  resources = [
+    { title = "Arzneistoffsynthese-Reaktionsliste", url = "/uploads/2020/10/Arzneistoffsynthese-Reaktionsliste.doc" },
+    { title = "Prüfungsbogen_Lsg.", url = "/uploads/2020/10/Prüfungsbogen_Lsg..pdf" },
+  ]
+
+[[bachelor]]
+  code      = "B.2.2"
+  name      = "Arzneistoffsynthese"
+  resources = []
+
+[[bachelor]]
+  code = "B.3.1"
+  name = "Biogene Wirkstoffe (Reinstoffe: Primärstoffe, Sekundärstoffe)"
+  resources = [
+    { title = "Pharmakognosie-I-_-ausgearb.-Altfragen", url = "/uploads/2020/10/Pharmakognosie-I-_-ausgearb.-Altfragen.pdf" },
+  ]
+
+[[bachelor]]
+  code      = "B.3.2"
+  name      = "Analytik von Arzneidrogen und Phytopharmaka"
+  resources = []
+
+[[bachelor]]
+  code      = "B.3.3"
+  name      = "Analytik von Arzneidrogen und Gewinnung pflanzlicher Sekundärstoffe"
+  resources = []
+
+[[bachelor]]
+  code      = "B.4.1"
+  name      = "Biopharmazeutika"
+  resources = []
+
+[[bachelor]]
+  code      = "B.4.2"
+  name      = "Synthetische Arzneistoffe"
+  resources = []
+
+[[bachelor]]
+  code = "C.1.1"
+  name = "Anorganische Arznei-, Hilfs- und Schadstoffe"
+  resources = [
+    { title = "Skript Anorganische Stoffe und ihre pharmazeutische Bedeutung", url = "/uploads/2020/10/Skript-Anorganische-Stoffe-und-ihre-pharmazeutische-Bedeutung.pdf" },
+  ]
+
+[[bachelor]]
+  code      = "C.1.2"
+  name      = "Einführung in die Pharmazeutische Analytik"
+  resources = []
+
+[[bachelor]]
+  code      = "C.1.3"
+  name      = "Qualitative Analyse, anorganischer Wirkstoffe"
+  resources = []
+
+[[bachelor]]
+  code      = "C.1.4"
+  name      = "Quantitative Analyse von Wirk- und Hilfsstoffen"
+  resources = []
+
+[[bachelor]]
+  code      = "C.1.5"
+  name      = "Versuchsplanung und Statistik"
+  resources = []
+
+[[bachelor]]
+  code      = "C.1.6"
+  name      = "Nutzung pharmazeutisch relevanter Datenbanken"
+  resources = []
+
+[[bachelor]]
+  code      = "C.2.1"
+  name      = "Apparative Methoden der Strukturaufklärung"
+  resources = []
+
+[[bachelor]]
+  code      = "C.2.2"
+  name      = "Analytik von Arzneimitteln und Wirkstoffen"
+  resources = []
+
+[[bachelor]]
+  code      = "C.2.3"
+  name      = "Arzneistoff- und Arzneimittelanalytik inkl. instrumenteller Methoden"
+  resources = []
+
+[[bachelor]]
+  code = "C.3.1"
+  name = "Gentechnik und Molekularbiologie"
+  resources = [
+    { title = "Fragenkatalog Biotechnologie", url = "/uploads/2020/10/Fragenkatalog-Biotechnologie.pdf" },
+  ]
+
+[[bachelor]]
+  code      = "C.3.2"
+  name      = "Molekularbiologische Arbeitstechniken"
+  resources = []
+
+[[bachelor]]
+  code      = "C.3.3"
+  name      = "Pharmazeutische Bioanalytik"
+  resources = []
+
+[[bachelor]]
+  code      = "C.3.4"
+  name      = "Biochemische und bioanalytische Methoden"
+  resources = []
+
+[[bachelor]]
+  code = "D.1.1"
+  name = "Funktionelle und pathologische Anatomie"
+  resources = [
+    { title = "Anatomie Altfragen ausgearbeitet", url = "/uploads/2020/10/Anatomie-Altfragen-ausgearbeitet.pdf" },
+  ]
+
+[[bachelor]]
+  code      = "D.1.2"
+  name      = "Histologie"
+  resources = []
+
+[[bachelor]]
+  code = "D.1.3"
+  name = "Physiologie"
+  resources = [
+    { title = "Physio-Pathophysio-ausgearbeiteter-Fragenkatalog", url = "/uploads/2020/10/Physio-Pathophysio-ausgearbeiteter-Fragenkatalog.pdf" },
+  ]
+
+[[bachelor]]
+  code      = "D.1.4"
+  name      = "Biochemie"
+  resources = []
+
+[[bachelor]]
+  code      = "D.2.1"
+  name      = "Pathophysiologie und Pathobiochemie"
+  resources = []
+
+[[bachelor]]
+  code = "D.2.2"
+  name = "Grundlagen der Pharmakologie"
+  resources = [
+    { title = "Pharmakologie-1_ausgearbeiter-Fragenkatalog", url = "/uploads/2020/10/Pharmakologie-1_ausgearbeiter-Fragenkatalog.pdf" },
+  ]
+
+[[bachelor]]
+  code      = "E.1.1"
+  name      = "Angewandte Mikrobiologie"
+  resources = []
+
+[[bachelor]]
+  code = "E.1.2"
+  name = "Arzneistoff Präformulierung"
+  resources = [
+    { title = "Preformulation", url = "/uploads/2020/10/Preformulation.pdf" },
+  ]
+
+[[bachelor]]
+  code      = "E.1.3"
+  name      = "Grundlagen der Präformulierung"
+  resources = []
+
+[[bachelor]]
+  code = "E.2.1"
+  name = "Einführung in die Pharmazeutische Technologie"
+  resources = [
+    { title = "Ausgearbeitete-Fragen_-Einführung-in-die-Techno-I", url = "/uploads/2020/10/Ausgearbeitete-Fragen_-Einführung-in-die-Techno-I.pdf" },
+  ]
+
+[[bachelor]]
+  code      = "E.2.2"
+  name      = "Einführung in die industrielle Galenik"
+  resources = []
+
+[[bachelor]]
+  code = "E.2.3"
+  name = "Grundlagen der Pharmazeutischen Technologie"
+  resources = [
+    { title = "Pharmazeutische-Technologie-II-_-ausgearbeiter-Fragenkatalog", url = "/uploads/2020/10/Pharmazeutische-Technologie-II-_-ausgearbeiter-Fragenkatalog.pdf" },
+  ]
+
+[[bachelor]]
+  code      = "E.2.4"
+  name      = "Pharmazeutische Biotechnologie"
+  resources = []
+
+[[bachelor]]
+  code      = "E.2.5"
+  name      = "Stabilität Pharmazeutischer Zubereitungen"
+  resources = []
+
+[[bachelor]]
+  code      = "E.3.1"
+  name      = "Biopharmazie und Pharmakokinetik"
+  resources = []
+
+[[bachelor]]
+  code = "E.3.2"
+  name = "Biopharmazeutische Untersuchungsmethoden"
+  resources = [
+    { title = "Diagnostik_ausgearbeitete-Altfragen", url = "/uploads/2020/10/Diagnostik.pdf" },
+  ]
+
+[[bachelor]]
+  code      = "E.3.3"
+  name      = "Toxikologie von Arznei- und Suchtmitteln"
+  resources = []

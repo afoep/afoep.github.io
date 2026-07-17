@@ -1,0 +1,7 @@
+{{ $parts := split .Content "<hr>" }}
+{{ if gt (len $parts) 1 }}
+  <article>{{ index $parts 0 | safeHTML }}</article>
+  <aside>{{ index $parts 1 | safeHTML }}</aside>
+{{ else }}
+  <article>{{ .Content }}</article>
+{{ end }}

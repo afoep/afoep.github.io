@@ -1,0 +1,21 @@
+<table>
+  <tbody>
+    {{- range site.Data.bachelor.bachelor }}
+    <tr>
+      <th>{{ .code }}</th>
+      <th>{{ .name }}</th>
+    </tr>
+    <tr>
+      <td colspan=2>
+        {{- if .resources }}
+        <ul>
+          {{- range .resources }}
+          <li><a href="{{ .url }}">{{ .title }}</a></li>
+          {{- end }}
+        </ul>
+        {{- end }}
+      </td>
+    </tr>
+    {{- end }}
+  </tbody>
+</table>

@@ -7,6 +7,7 @@
     <link rel="icon" href="/favicon.ico" />
     {{ $css := resources.Get "index.css" | minify }}
     <link rel="stylesheet" href="{{ $css.RelPermalink }}" />
+    <link rel="stylesheet" href="/mobile.css" />
     {{ $js := resources.Get "index.js" | minify }}
     <script src="{{ $js.RelPermalink }}"></script>
   </head>
@@ -15,12 +16,20 @@
       <div class="container">
         <div id="logo-row">
           <img id="logo" src="/images/logo2x.png" width="246" height="80" />
+          <details id="nav-mobile">
+            <summary>☰</summary>
+            <ul>
+              {{ range site.Menus.main }}
+              <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+              {{ end }}
+            </ul>
+          </details>
         </div>
       </div>
     </header>
     <nav id="nav-row">
       <div class="container">
-        <ul>
+        <ul id="nav-desktop">
           {{ range site.Menus.main }}
           <li>
             <a
@@ -34,7 +43,7 @@
     </nav>
     <main>
       <div class="container">
-        <div>{{ .Content }}</div>
+        {{ block "main" . }}{{ .Content }}{{ end }}
       </div>
     </main>
     <footer>

@@ -77,7 +77,7 @@ IPSF (International Pharmaceutical Students' Federation) ist die internationale 
 
 ![Noch Fragen?](/images/comic/noch-fragen.png)
 
-<!-- sidebar -->
+---
 
 ![EPSA](/images/comic/epsa.jpg)
 

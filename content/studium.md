@@ -20,7 +20,7 @@ Wir wünschen euch bei euren Prüfungen viel Glück! GLG eurer pharmapoint.at-Te
 
 ### Bachelor
 
-render as table
+{{< bachelor-table >}}
 
 ### Master
 
@@ -151,8 +151,6 @@ Hier findest du Prüfungsfragen zu ausgelaufenen Prüfungen. Sie können dir als
 Um euch den Start ins Pharmaziestudium und das allgemeine Unileben ein bisschen zu erleichtern, haben wir gemeinsam mit der Studienvertretung Pharmazie Wien einen „Wegweiser“ durch’s Studium für die Wiener Erstsemestrigen erstellt. Die gedruckte Version könnt ihr euch natürlich wie immer gern bei unseren KollegInnen im StV-Kammerl mitnehmen.
 
 Diese sind leider nicht mehr aktuell. Stattdessen verweisen wir auf den [Studienleitfaden der StV Pharmazie](https://stv-pharmazie.oeh.univie.ac.at/wp-content/uploads/2025/04/Studienleitfaden_2024.pdf).
-
----
 
 Natürlich dürfen wir unsere Freunde von den Studienvertretungen Pharmazie nicht vergessen:
 
