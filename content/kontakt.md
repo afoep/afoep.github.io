@@ -10,7 +10,7 @@ Du hast Fragen zu uns oder unseren Events?\
 Du möchtest Deine Ideen verwirklichen oder bei uns reinschnuppern?\
 Schreibe uns gerne unter [office@afoep.at](mailto:office@afoep.at)!
 
-Du erreichst uns auch auf [Facebook](http://facebook.com/afoep/) und [Instagram](https://www.instagram.com/afoep/)!
+Du erreichst uns auch auf [Facebook](http://facebook.com/afoep/) und [Instagram](https://www.instagram.com/afoep_graz/)!
 
 ![Das AFÖP-Team](/images/decorative/kontakt24-team-768x576.jpg)
 
@@ -23,5 +23,5 @@ Du erreichst uns auch auf [Facebook](http://facebook.com/afoep/) und [Instagram]
 Elisabethstraße 27 / Schubertnest\
 8010 Graz\
 ZVR: 405502824\
-[office@afoep.at](mailto:office@afoep.at)\
+[president@afoep.at](mailto:president@afoep.at)\
 [afoep.at](https://afoep.at)
