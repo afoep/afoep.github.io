@@ -76,7 +76,7 @@ Jegliche finanzielle Unterstützung hilft uns bei der Durchführung unserer viel
 
 {{< figure src="/images/banking-qrcode.svg" width="400" >}}
 
-Über diesen QR-Code ist eine Zahlung einfach möglich. (Scannen mit einer Banking-App) Alternativ ist eine Zahlung auch mit folgenden Bankdaten möglich:
+Durch Scannen dieses QR-Codes mit einer Banking-App ist eine Zahlung einfach möglich. Alternativ ist eine Zahlung auch mit folgenden Bankdaten möglich:
 
 + **Adressat:** Akademischer Fachverein Österreichischer Pharmazeut_innen
 + **IBAN:** AT80 1813 0997 4973 0000
