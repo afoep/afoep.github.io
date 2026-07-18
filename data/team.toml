@@ -6,27 +6,39 @@
 
 [[team]]
   name     = "Lea Stadlmann"
-  position = "Präsidentin"
+  position = "Vizepräsidentin für Inneres"
   place    = "Graz"
   photo    = "/images/team/stadlmann.jpg"
 
-# [[team]]
-#   name     = "Judith Schwarz"
-#   position = "Treasurer"
-#   place    = "Graz"
-#   photo    = "/images/team/schwarz.jpg"
+[[team]]
+  name     = "Bao Chau Dao"
+  position = "Vizepräsidentin für Äußeres & Projektkoordinatorin"
+  place    = "Wien"
+  photo    = "/images/team/dao.jpg"
+
+[[team]]
+  name     = "Theresa Pflug"
+  position = "Schriftführerin & TBKH/Kinderapotheke Coordinator"
+  place    = "Wien"
+  photo    = "/images/team/pflug.jpg"
+
+  # [[team]]
+  #   name     = "Judith Schwarz"
+  #   position = "Treasurer"
+  #   place    = "Graz"
+  #   photo    = "/images/team/schwarz.jpg"
 
 [[team]]
   name     = "Anna Ursprunger"
-  position = "Schriftführerin"
+  position = ""
   place    = "Graz"
   photo    = "/images/team/ursprunger.jpg"
 
-# [[team]]
-#   name     = "Anna Pfenicher"
-#   position = "EPSA Liaison Secretary"
-#   place    = "Graz"
-#   photo    = "/images/team/pfenicher.jpg"
+  # [[team]]
+  #   name     = "Anna Pfenicher"
+  #   position = "EPSA Liaison Secretary"
+  #   place    = "Graz"
+  #   photo    = "/images/team/pfenicher.jpg"
 
 [[team]]
   name     = "Milica Jankovic"
@@ -65,50 +77,44 @@
   photo    = "/images/team/gaskin.jpg"
 
 [[team]]
-  name     = "Bao Chau Dao"
-  position = ""
-  place    = "Wien"
-  photo    = "/images/team/dao.jpg"
-
-[[team]]
   name     = "Katarina Tupanjac"
-  position = ""
+  position = "IPSF Contact Person"
   place    = "Wien"
   photo    = "/images/team/tupanjac.jpg"
 
 [[team]]
-  name     = "Theresa Pflug"
-  position = ""
-  place    = "Wien"
-  photo    = "/images/team/pflug.jpg"
-
-[[team]]
   name     = "Lena Mladenovic"
-  position = ""
+  position = "Ball of Pharmacy Coordinator"
   place    = "Wien"
   photo    = "/images/team/mladenovic.jpg"
 
 [[team]]
   name     = "Sandra Hiess"
   position = ""
-  place    = ""
+  place    = "Graz"
   photo    = "/images/team/hiess.jpg"
 
 [[team]]
   name     = "Marlene Huber"
-  position = ""
+  position = "EPSA Twinnet Coordinator"
   place    = "Wien"
   photo    = "/images/team/huber.jpg"
 
 [[team]]
   name     = "Francesca Iafrate"
-  position = ""
+  position = "EPSA Liaison"
   place    = "Wien"
   photo    = "/images/team/iafrate.jpg"
 
 [[team]]
+  name     = "Simona Jacková"
+  place    = "Wien"
+  position = "Design Koordinatorin"
+  photo    = "/images/team/jackova.jpg"
+
+[[team]]
   name     = "Majed Korye"
-  position = ""
+  position = "Event- & Projektassistenz"
   place    = "Wien"
   photo    = "/images/team/korye.jpg"
 
@@ -132,18 +138,24 @@
 
 [[team]]
   name     = "Caroline Rigler"
-  position = ""
-  place    = ""
+  position = "Public Relations Coordinator"
+  place    = "Wien"
   photo    = "/images/team/rigler.jpg"
 
 [[team]]
   name     = "Anna Rosenbichler"
   position = ""
-  place    = ""
+  place    = "Wien"
   photo    = "/images/team/rosenbichler.jpg"
 
 [[team]]
+  name     = "Maja Milosevic"
+  position = "EPSA Advocacy Platform Representative"
+  place    = "Wien"
+  photo    = "/images/team/milosevic.jpg"
+
+[[team]]
   name     = "Vanessa Brunner"
-  position = ""
+  position = "Science & Education Coordinator"
   place    = "Wien"
   photo    = "/images/team/brunner.jpg"
