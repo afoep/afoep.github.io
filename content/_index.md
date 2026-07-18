@@ -21,6 +21,8 @@ Ich freue mich, Dich bei uns Willkommen zu heißen!
 
 ---
 
-![AFÖP Booklet](/images/booklet-cover.jpg)
+Als gemeinnützige Organisation sind wir auf finanzielle Hilfe angewiesen. Bitte [**unterstütze uns**](/mitgliedschaft#finanzielle-unterstützung) und unsere vielen Projekte!
+
+[![AFÖP Booklet](/images/booklet-cover.png)](/documents/booklet.pdf)
 
 *In unserem AFÖP Booklet findest du alle notwendigen Informationen zum AFÖP in kompaktem Format!*

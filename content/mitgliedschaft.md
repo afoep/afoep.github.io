@@ -68,3 +68,18 @@ Hierfür must du das Formular neben an ausfüllen und an [office@afoep.at](mailt
 [Du möchtest jemanden vorschlagen?](https://www.afoep.at/kontakt/)
 
 {{< /details >}}
+
+## Finanzielle Unterstützung
+
+Unabhängig von Mitgliedschaften freuen wir uns auch über freiwillige Spenden.
+Jegliche finanzielle Unterstützung hilft uns bei der Durchführung unserer vielen [Projekte](http://localhost:1313/aktivitaeten/) und unserer Rolle in der weiteren Vernetzung von Pharmaziestudierenden und Pharmazeut:innnen.
+
+{{< figure src="/images/banking-qrcode.svg" width="400" >}}
+
+Über diesen QR-Code ist eine Zahlung einfach möglich. (Scannen mit einer Banking-App) Alternativ ist eine Zahlung auch mit folgenden Bankdaten möglich:
+
++ **Adressat:** Akademischer Fachverein Österreichischer Pharmazeut_innen
++ **IBAN:** AT80 1813 0997 4973 0000
++ **BIC:** BWFBATW1
+
+Wir bedanken uns für Ihre großzügige Hilfe!
