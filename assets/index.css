@@ -177,7 +177,7 @@ main {
     &:last-of-type {
       border-bottom-left-radius: 0.375rem;
       border-bottom-right-radius: 0.375rem;
-      margin-bottom: 0;
+      margin-bottom: 20px;
     }
 
     & > summary {
