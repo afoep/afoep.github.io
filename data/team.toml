@@ -28,12 +28,6 @@
   #   place    = "Graz"
   #   photo    = "/images/team/schwarz.jpg"
 
-[[team]]
-  name     = "Anna Ursprunger"
-  position = ""
-  place    = "Graz"
-  photo    = "/images/team/ursprunger.jpg"
-
   # [[team]]
   #   name     = "Anna Pfenicher"
   #   position = "EPSA Liaison Secretary"
@@ -41,40 +35,10 @@
   #   photo    = "/images/team/pfenicher.jpg"
 
 [[team]]
-  name     = "Milica Jankovic"
-  position = ""
-  place    = "Graz"
-  photo    = "/images/team/jankovic.jpg"
-
-[[team]]
-  name     = "Selina Lamprecht"
-  position = ""
-  place    = "Graz"
-  photo    = "/images/team/lamprecht.jpg"
-
-[[team]]
-  name     = "Marlene Steininger"
-  position = ""
-  place    = "Graz"
-  photo    = "/images/team/steininger.jpg"
-
-[[team]]
   name     = "Catharina Ressmann"
   position = "Geschäftsführerin"
   place    = "Graz"
   photo    = "/images/team/ressmann.jpg"
-
-[[team]]
-  name     = "Alexander J Pfleger"
-  position = "IT"
-  place    = "Graz"
-  photo    = "/images/team/pfleger.jpg"
-
-[[team]]
-  name     = "Leo Gaskin"
-  position = "IT"
-  place    = "Wien"
-  photo    = "/images/team/gaskin.jpg"
 
 [[team]]
   name     = "Katarina Tupanjac"
@@ -87,12 +51,6 @@
   position = "Ball of Pharmacy Coordinator"
   place    = "Wien"
   photo    = "/images/team/mladenovic.jpg"
-
-[[team]]
-  name     = "Sandra Hiess"
-  position = ""
-  place    = "Graz"
-  photo    = "/images/team/hiess.jpg"
 
 [[team]]
   name     = "Marlene Huber"
@@ -119,6 +77,66 @@
   photo    = "/images/team/korye.jpg"
 
 [[team]]
+  name     = "Caroline Rigler"
+  position = "Public Relations Coordinator"
+  place    = "Wien"
+  photo    = "/images/team/rigler.jpg"
+
+[[team]]
+  name     = "Maja Milosevic"
+  position = "EPSA Advocacy Platform Representative"
+  place    = "Wien"
+  photo    = "/images/team/milosevic.jpg"
+
+[[team]]
+  name     = "Vanessa Brunner"
+  position = "Science & Education Coordinator"
+  place    = "Wien"
+  photo    = "/images/team/brunner.jpg"
+
+[[team]]
+  name     = "Alexander J Pfleger"
+  position = "IT"
+  place    = "Graz"
+  photo    = "/images/team/pfleger.jpg"
+
+[[team]]
+  name     = "Leo Gaskin"
+  position = "IT"
+  place    = "Wien"
+  photo    = "/images/team/gaskin.jpg"
+
+[[team]]
+  name     = "Anna Ursprunger"
+  position = ""
+  place    = "Graz"
+  photo    = "/images/team/ursprunger.jpg"
+
+[[team]]
+  name     = "Milica Jankovic"
+  position = ""
+  place    = "Graz"
+  photo    = "/images/team/jankovic.jpg"
+
+[[team]]
+  name     = "Selina Lamprecht"
+  position = ""
+  place    = "Graz"
+  photo    = "/images/team/lamprecht.jpg"
+
+[[team]]
+  name     = "Marlene Steininger"
+  position = ""
+  place    = "Graz"
+  photo    = "/images/team/steininger.jpg"
+
+[[team]]
+  name     = "Sandra Hiess"
+  position = ""
+  place    = "Graz"
+  photo    = "/images/team/hiess.jpg"
+
+[[team]]
   name     = "Mahmoud Gouda"
   position = ""
   place    = "Wien"
@@ -137,25 +155,7 @@
   photo    = "/images/team/moussa.jpg"
 
 [[team]]
-  name     = "Caroline Rigler"
-  position = "Public Relations Coordinator"
-  place    = "Wien"
-  photo    = "/images/team/rigler.jpg"
-
-[[team]]
   name     = "Anna Rosenbichler"
   position = ""
   place    = "Wien"
   photo    = "/images/team/rosenbichler.jpg"
-
-[[team]]
-  name     = "Maja Milosevic"
-  position = "EPSA Advocacy Platform Representative"
-  place    = "Wien"
-  photo    = "/images/team/milosevic.jpg"
-
-[[team]]
-  name     = "Vanessa Brunner"
-  position = "Science & Education Coordinator"
-  place    = "Wien"
-  photo    = "/images/team/brunner.jpg"
