@@ -14,7 +14,7 @@ Die brandneuen Prüfungsfragen sind wie gewohnt mit „NEU!!" markiert - da hier
 
 Wir wünschen euch bei euren Prüfungen viel Glück! GLG eurer pharmapoint.at-Team
 
-+ [Studienleitfaden-WS19_20](/uploads/2020/10/Studienleitfaden-WS19_20.pd)
++ [Studienleitfaden-WS19_20](/uploads/2020/10/Studienleitfaden-WS19_20.pdf)
 + [Semesterplan - Bachelor Graz](/uploads/2020/10/Semesterplan-Pharmazie-Graz-Bachelor-v3.pdf)
 + [Semesterplan - Master Graz](/uploads/2020/10/Semesterplan-Master-Graz.pdf)
 
