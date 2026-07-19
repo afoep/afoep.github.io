@@ -20,6 +20,8 @@ jobs:
       HUGO_VERSION: 0.157.0
     steps:
       - uses: actions/checkout@v6
+        with:
+          lfs: true
       - id: pages
         uses: actions/configure-pages@v5
       - run: |
