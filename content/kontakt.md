@@ -12,7 +12,7 @@ Schreibe uns gerne unter [office@afoep.at](mailto:office@afoep.at)!
 
 Du erreichst uns auch auf [Linkedin](https://www.linkedin.com/company/akademischer-fachverein-%C3%B6sterreichischer-pharmazeut_innen) und [Instagram](https://www.instagram.com/afoep_wien/)!
 
-![Das AFÖP-Team](/images/decorative/kontakt24-team-768x576.jpg)
+![Das AFÖP-Team](/images/team-2026.jpeg)
 
 ---
 
