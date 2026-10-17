@@ -7,6 +7,20 @@
     <link rel="icon" href="/favicon.ico" />
     {{ $css := resources.Get "index.css" | minify }}
     <link rel="stylesheet" href="{{ $css.RelPermalink }}" />
+    <link
+      rel="preload"
+      href="/fonts/work-sans/work-sans-regular.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/fonts/work-sans/work-sans-500.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
     {{ $js := resources.Get "index.js" | minify }}
     <script src="{{ $js.RelPermalink }}"></script>
   </head>
