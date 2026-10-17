@@ -7,7 +7,6 @@
     <link rel="icon" href="/favicon.ico" />
     {{ $css := resources.Get "index.css" | minify }}
     <link rel="stylesheet" href="{{ $css.RelPermalink }}" />
-    <link rel="stylesheet" href="/mobile.css" />
     {{ $js := resources.Get "index.js" | minify }}
     <script src="{{ $js.RelPermalink }}"></script>
   </head>
