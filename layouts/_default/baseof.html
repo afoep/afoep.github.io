@@ -22,7 +22,7 @@
       crossorigin
     />
     {{ $js := resources.Get "index.js" | minify }}
-    <script src="{{ $js.RelPermalink }}"></script>
+    <script src="{{ $js.RelPermalink }}" defer></script>
   </head>
   <body>
     <header>
